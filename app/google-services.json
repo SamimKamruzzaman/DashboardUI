@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "321102108675",
+    "firebase_url": "https://dashboardui-65858.firebaseio.com",
+    "project_id": "dashboardui-65858",
+    "storage_bucket": "dashboardui-65858.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:321102108675:android:f074625c255081bce99636",
+        "android_client_info": {
+          "package_name": "com.example.dashboardui"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "321102108675-cu6ikjres3j7la259oalpbdn46o2q3tg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dashboardui",
+            "certificate_hash": "1de5f9b7fe83df856edc03041305ad2256eb6567"
+          }
+        },
+        {
+          "client_id": "321102108675-co8kn5jdtglbjtmi7hreis3n0uus669l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlgXrGWEUBrQrRGw_y-OSNuSUQnvGa50M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "321102108675-co8kn5jdtglbjtmi7hreis3n0uus669l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
